@@ -69,4 +69,42 @@ We integrated Gemini AI, an advanced natural language processing engine, into ou
 - **Suggestions for Improvement**: Offering constructive recommendations.
 - **Action Words**: Recommending impactful words for clarity and effectiveness in interviews.
 
+  ### Requirements:
+
+Before using this project, ensure that you have the following dependencies installed:
+
+- tqdm
+- TensorFlow
+- PyTorch
+- Gradio
+- LanguageTool
+- Gemini AI
+- fastapi
+- uvicorn
+- pydantic
+- scikit-learn
+- requests
+- os
+- librosa
+- whisper
+- numpy
+- pytube
+- pathlib
+- textwrap
+- google.generativeai
+- IPython
+- transformers
+- pefft
+- trl
+- locale
+- loRA
+- QLora
+  
+
+You can install the required dependencies by running:
+
+```bash
+pip install -r requirements.txt
+
+
 
