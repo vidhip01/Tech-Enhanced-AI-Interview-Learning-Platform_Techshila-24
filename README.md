@@ -18,6 +18,9 @@ We aimed to develop an AI-based interviewer capable of asking topic-specific que
 
 ---
 
+![Alt Text](https://github.com/vidhip01/Interview_Enhancement_WebApp_Techshila-24/blob/main/Flow.jpg)
+
+
 ## DATASET CREATION:
 
 ### Text dataset creation:
