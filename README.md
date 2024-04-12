@@ -72,6 +72,11 @@ We integrated Gemini AI, an advanced natural language processing engine, into ou
 - **Suggestions for Improvement**: Offering constructive recommendations.
 - **Action Words**: Recommending impactful words for clarity and effectiveness in interviews.
 
+### Metrics
+BLEU Score: **0.47**
+F1 Score: **0.20**
+
+
   ### Requirements:
 
 Before using this project, ensure that you have the following dependencies installed:
